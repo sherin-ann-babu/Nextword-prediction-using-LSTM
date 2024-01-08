@@ -3,4 +3,4 @@ Next word prediction, also referred as Language Modelling, is the process of pre
 
 We have been gradually accustomed to our mobile keyboards predicting the next word without even realizing it. Nowadays, emails and text based applications provides users with the ability to integrate this option directly.
 
-Next word prediction is an application that uses transformers models to predict next word or a masked word in a sentence.
+Next word prediction is an application that uses transformers models to predict next word or a masked word in a sentence. 
